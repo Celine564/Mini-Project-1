@@ -291,6 +291,7 @@ public class miniProject extends Application {
                     errorMsg.setText("Please fill in all the required fields.");
                 }
 
+                System.out.print("Pull request");
 
 
             });
